@@ -4,6 +4,7 @@ In June 2025, as part of the **Y**ellow **S**tar **T**histle - **Tr**aining **Ex
 
 ## Project Overview
 
+![Site map](./assets/YST-TREX%20June%202025%20Map.jpg)
 
 ## Repository Structure
 
